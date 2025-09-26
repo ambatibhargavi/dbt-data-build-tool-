@@ -45,7 +45,7 @@ This layered approach ensures:
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/your-username/your-dbt-project.git
+git clone https://github.com/ambatibhargavi/dbt-data-build-tool-.git
 cd your-dbt-project
 ```
 
